@@ -1,0 +1,12 @@
+{
+  "prefix": "/",
+  "developer": "Yosua",
+  "botName": "stella_bot",
+  "version": "1.0.0",
+  "features": [
+    "Slash command /info",
+    "Menampilkan info server dan bot",
+    "Struktur folder modular",
+    "Konfigurasi dinamis via config.json"
+  ]
+}
